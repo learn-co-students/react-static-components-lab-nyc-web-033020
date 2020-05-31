@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-
-export default class CatComponent extends Component {
+class CatComponent extends React.Component {
   render() {
     return (
       <div className="bar" id="cat">
@@ -9,3 +8,4 @@ export default class CatComponent extends Component {
     );
   }
 }
+export default CatComponent;
