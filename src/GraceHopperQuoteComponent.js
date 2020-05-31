@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 export class GraceHopperQuoteComponent extends Component {
 	render() {
 		return (
