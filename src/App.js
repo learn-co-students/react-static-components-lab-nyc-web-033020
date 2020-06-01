@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import CatComponent from './CatComponent.js'
-import {GraceHopperQuoteComponent} from './GraceHopperQuoteComponent.js'
-import MouseComponent from './MouseComponent.js'
+import CatComponent from './CatComponent'
+import { GraceHopperQuoteComponent } from './GraceHopperQuoteComponent'
+import MouseComponent from './MouseComponent'
 
 class App extends Component {
 	render() {
